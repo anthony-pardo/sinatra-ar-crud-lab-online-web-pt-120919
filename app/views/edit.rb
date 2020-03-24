@@ -2,4 +2,5 @@
     <input id="hidden" type="hidden" name="_method" value="patch">
     <input type="text" name="title">
     <input type="text" name="content">
+    <button id="submit" type="submit">Submit</button>
 </form>
